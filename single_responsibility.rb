@@ -1,5 +1,5 @@
 class CoffeeMaker
- def brew_Cofee
+ def brew_coffee
   #your logic here
  end
 end
